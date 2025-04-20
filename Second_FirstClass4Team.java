@@ -6,4 +6,3 @@ public class FirstClass4Team {
          System.out.println("\"學號：\"23456789\"\n姓名：\"申山本\"");   
      }
  }
- }
